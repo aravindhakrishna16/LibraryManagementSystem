@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 40px;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+nav a {
+    margin: 15px;
+    text-decoration: none;
+}
+
+p {
+    font-size: 18px;
+}
